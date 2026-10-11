@@ -1,0 +1,9 @@
+{
+    "name": "snipers-counter",
+    "hooks": [
+        {
+            "hook_id": "lib/managers/enemymanager",
+            "script_path": "snipers-counter.lua"
+        }
+    ]
+}
